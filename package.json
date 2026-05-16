@@ -1,0 +1,13 @@
+{
+  "name": "nvidia-api-proxy-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "@vercel/node": "^5.0.0",
+    "typescript": "^5.0.0"
+  }
+}
